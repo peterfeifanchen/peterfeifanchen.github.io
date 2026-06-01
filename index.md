@@ -49,4 +49,4 @@ I am broadly interested in systems, machine learning, economics and signal proce
 
 ### Life
 
-When I am not dabbling, you may find me sketching, figuring out how to build my own radar, sailing, swing/bachata dancing, skiing, learning French, sailing and travelling. I am also rumoured to write once in a while. Sometimes, I think my current career is just a gig until a sitting Prime Minister realizes my talents as a speech writer.
+When I am not dabbling, you may find me sketching, figuring out how to build my own radar, swing/bachata dancing, skiing, learning French, sailing and travelling. I am also rumoured to write once in a while. Sometimes, I think my current career is just a gig until a sitting Prime Minister realizes my talents as a speech writer.
