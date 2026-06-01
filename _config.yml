@@ -45,5 +45,9 @@ main:
     image: /assets/do-a-brave-thing.jpg
     caption: do a brave thing
 
+exclude:
+  - blog.md.disabled
+  - vendor/
+
 plugins:
   - jekyll-seo-tag
