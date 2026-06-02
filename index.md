@@ -27,7 +27,7 @@ I am broadly interested in systems, machine learning, economics and signal proce
   * [*BIG-Bench Extra Hard*](https://aclanthology.org/2025.acl-long.1285.pdf) (Google DeepMind, 2025)
   * [*Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities*](https://arxiv.org/pdf/2405.18669) (Deepmind, 2024)
   * [*LLMs Cannot Find Reasoning Errors, But Can Correct Them Given the Error Location*](https://aclanthology.org/2024.findings-acl.826.pdf) (DeepMind, 2024)
-  * [*AudioPaLM: A Large Language Model That Can Speak and Listen*](https://arxiv.org/pdf/2306.12925) (Google Resarch, 2023)
+  * [*AudioPaLM: A Large Language Model That Can Speak and Listen*](https://arxiv.org/pdf/2306.12925) (Google Research, 2023)
 
   <br>You can find my most recent work [on Google Scholar](https://scholar.google.com/citations?user=IQyjO6AAAAAJ&hl=en).
 
