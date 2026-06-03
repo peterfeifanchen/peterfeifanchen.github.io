@@ -3,3 +3,12 @@
 ---
 
 @import "minima";
+
+@media screen and (max-width: 600px) {
+  .page-content img[alt="Me"] {
+    float: none !important;
+    display: block;
+    margin: 0 auto 20px auto !important;
+    width: 140px;
+  }
+}
